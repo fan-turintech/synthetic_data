@@ -1,6 +1,7 @@
 # Synthetic Data Generator
 
 A Python library for generating synthetic data with various distributions.
+
 This project is generated completely by AI.
 
 ## Features
